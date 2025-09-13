@@ -1,4 +1,4 @@
-# 🎬 Netflix-style Database
+# 🎬 Netflix-style Database (Intermediate Level)
 
 A **SQL database schema** simulating a streaming platform with users, movies, ratings, and subscriptions.  
 Includes sample data and queries to demonstrate joins, aggregates, and basic relational operations.  
